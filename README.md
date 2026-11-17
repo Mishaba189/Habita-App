@@ -22,7 +22,7 @@ You can download the latest official APK directly from the **Releases** page:
 
 * **Goal-Oriented Habit Tracking:** Pair daily habits with larger milestone goals [cite: 1].
 * **Flexible Scheduling:** Choose schedules that fit your routine—**Everyday**, **Weekdays (Mon–Fri)**, **Weekends Only**, **Specific Days**, **Weekly**, or **Monthly**[cite: 1].
-* **Custom Target Periods:** Set structured timeframes **[cite: 1].
+* **Custom Target Periods:** Set structured timeframes [cite: 1].
 * **Visual Progress & Insights:** Track daily completion percentages, monitor overall goal achievement rings, and keep streaks alive with a clean, distraction-free interface[cite: 1].
 * **Smart Reminders & Privacy:** Stay on track with push notifications while keeping your personal data secure[cite: 1].
 
